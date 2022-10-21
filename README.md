@@ -1,20 +1,15 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# World Travel
+## _Fluter Version: 2.10.3_
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+The World Travel application was proposed as an activity to be developed during a Flutter/Dart training offered by the "Novos Talentos" program of the [Mobilus Company](www.mobilus.com.br).
+The purpose of the capture was to train the use of some flutter libraries:
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+* [Image Picker](https://pub.dev/packages/image_picker)
+* [Flutter Map](https://pub.dev/packages/flutter_map/versions/1.1.1)
+* [LatLng](https://pub.dev/packages/latlng)
+* [Geolocator](https://pub.dev/packages/geolocator)
+* [Google Maps Utils](https://pub.dev/packages/google_maps_utils)
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+![TELA INICIAL](https://user-images.githubusercontent.com/88330283/197240249-3146213d-a5dd-4d06-babb-d931294f9ff2.png) ![TELA DE CADASTRO](https://user-images.githubusercontent.com/88330283/197240797-a381c412-0cf7-4d34-b7fd-34bd7a654031.png) ![TELA DE LOGIN](https://user-images.githubusercontent.com/88330283/197240648-16395151-707d-417f-9380-3cc04982c570.png) ![TELA HOME](https://user-images.githubusercontent.com/88330283/197240878-e7d74cd4-1fe7-47b1-b1c0-37002501140f.png)
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
